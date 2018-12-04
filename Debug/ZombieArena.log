@@ -1,8 +1,6 @@
-﻿  Bullet.cpp
-  ZombieArena.cpp
+﻿  ZombieArena.cpp
 c:\users\alan\documents\visual studio 2017\projects\zombiearena\zombiearena\zombiearena.cpp(28): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
 c:\users\alan\documents\visual studio 2017\projects\zombiearena\zombiearena\zombiearena.cpp(29): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
 c:\users\alan\documents\visual studio 2017\projects\zombiearena\zombiearena\zombiearena.cpp(31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-c:\users\alan\documents\visual studio 2017\projects\zombiearena\zombiearena\zombiearena.cpp(342): warning C4390: ';': empty controlled statement found; is this the intent?
-  Generating Code...
+c:\users\alan\documents\visual studio 2017\projects\zombiearena\zombiearena\zombiearena.cpp(356): warning C4390: ';': empty controlled statement found; is this the intent?
   ZombieArena.vcxproj -> C:\Users\alan\Documents\Visual Studio 2017\Projects\ZombieArena\Debug\ZombieArena.exe

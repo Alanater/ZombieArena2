@@ -4,7 +4,7 @@
 // The constructor
 Bullet::Bullet()
 {
-	m_BulletShape.setSize(sf::Vector2f(2, 2));
+	m_BulletShape.setSize(sf::Vector2f(4, 4));
 }
 
 void Bullet::shoot(float startX, float startY, float targetX, float targetY)
